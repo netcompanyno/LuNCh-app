@@ -1,0 +1,6 @@
+framework module Pods_LuNChTests {
+  umbrella header "Pods-LuNChTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
