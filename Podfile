@@ -7,7 +7,10 @@ target 'LuNCh' do
 
   # Pods for LuNCh
   pod 'ReSwift'
-
+  pod 'Firebase/Core'
+  pod 'ReSwiftThunk'
+  pod 'Firebase/Database'
+  
   target 'LuNChTests' do
     inherit! :search_paths
     # Pods for testing
